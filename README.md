@@ -1,8 +1,8 @@
 # github.com/FlorentClarret/adventofcode
 
-|       |                                                                                                                                                     |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CI/CD | [![pre-commit.ci status][pre-commit-ci-badge]][pre-commit-ci-result]                                                                                |
+|       |                                                                                                         |
+| ----- | ------------------------------------------------------------------------------------------------------- |
+| CI/CD | [![pre-commit.ci status][pre-commit-ci-badge]][pre-commit-ci-result]                                    |
 | Tools | [![pre-commit][pre-commit-badge]][pre-commit-badge] [![Mergify Status][mergify-badge]][mergify-website] |
 
 My [adventofocode][adventofcode-website] solutions.
